@@ -1,11 +1,10 @@
 # 👋 ShadowDev
 
-💻 Entwickler mit Fokus auf moderne Web-Systeme, Server-Automatisierung und Integration komplexer Plattformen  
-🐧 Linux-affin · ⚙️ Systemnah · 🚀 Praxisorientiert
-
 ---
 
-## 🛠 Programmiersprachen
+## 🛠 Tech Stack
+
+### Programmiersprachen
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
@@ -19,20 +18,23 @@
 
 ---
 
-## 💻 Tätigkeitsbereiche
+## 💻 Was ich mache
 - Webentwicklung (Frontend & Backend)
-- Discord-Bot-Entwicklung
+- Discord-Bot- & API-Entwicklung
 - Minecraft **PocketMine-MP** Plugin-Entwicklung
-- Linux-Scripting & Softwareentwicklung
+- Linux-Scripting & systemnahe Software
 - **Systemintegration**
 - **Server- & Systemautomatisierung**
 
 ---
 
 ## 🎯 Fokus
-- Saubere, performante Systeme
+- Saubere, stabile & performante Systeme
 - Automatisierte Server- & Verwaltungsprozesse
 - Eigene Panels & Weboberflächen
 - Enge Verzahnung von Web, Bots & Server-Infrastruktur
 
 ---
+
+📍 Hamburg, Deutschland  
+🌐 https://dc.shadowdev.eu
