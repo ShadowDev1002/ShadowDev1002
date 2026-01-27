@@ -19,7 +19,7 @@
 ---
 
 ## 💻 Was ich mache
-- Webentwicklung (Frontend & Backend)
+- Webentwicklung
 - Discord-Bot- & API-Entwicklung
 - Minecraft **PocketMine-MP** Plugin-Entwicklung
 - Linux-Scripting & systemnahe Software
