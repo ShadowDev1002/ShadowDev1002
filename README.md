@@ -34,5 +34,5 @@
 
 ---
 
-📍 Hamburg, Deutschland  
+📍 Schleswig-Holstein / Deutschland  
 🌐 https://dc.shadowdev.eu
